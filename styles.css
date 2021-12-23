@@ -1,0 +1,68 @@
+body {
+    background-color: #f8f9fc;
+    padding: 2% 5%;
+    color: #2b3f65;
+    
+}
+
+/* footer {
+    background-color: #f0f4fc;
+    margin: 0;
+} */
+
+img{
+    border-radius: 25px;
+}
+
+.highlight {
+    color:#7ba7fd;
+}
+
+.purple {
+    color: #aea1fc;
+}
+
+.btn-highlight {
+    background-color: #7ba7fd;
+}
+
+.input-group{
+    margin-bottom: 24px;
+}
+
+section {
+    padding: 0;
+}
+
+.fa-search {
+    color: #f8f9fc;
+}
+
+.service-img {
+    height: 630px;
+    width: auto;
+}
+
+.testimonial-img{
+    height: auto;
+    width: 100%;
+}
+
+.border-highlight {
+    border-color: #7ba7fd;
+}
+
+#cta {
+    padding-left: 200px;
+    padding-right: 200px;
+    display: inline-block;
+    background-color: #2b3f65;
+    border-radius: 25px;
+    color:#f8f9fc;
+}
+
+/* #about{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} */
